@@ -1,0 +1,26 @@
+cliente_id,nome_cliente,email,telefone,cidade,estado,data_cadastro,canal_aquisicao
+C001,Ana Paula Souza,ana.souza@gmail.com,(34) 99812-3456,Uberlândia,MG,2024-01-20,Instagram
+C002,Mariana Costa,mariana.costa@hotmail.com,(11) 98765-4321,São Paulo,SP,2024-01-25,Indicação
+C003,Fernanda Lima,fernanda.lima@gmail.com,(21) 97654-3210,Rio de Janeiro,RJ,2024-02-03,Instagram
+C004,Juliana Alves,juliana.alves@yahoo.com,(31) 96543-2109,Belo Horizonte,MG,2024-02-14,Facebook
+C005,Camila Rocha,camila.rochahotmail.com,(19) 95432-1098,Campinas,SP,2024-02-28,Instagram
+C006,Beatriz Nunes,beatriz.nunes@gmail.com,(85) 94321-0987,Fortaleza,CE,2024-03-05,WhatsApp
+C007,Letícia Martins,leticia.martins@gmail.com,(62) 93210-9876,Goiânia,GO,2024-03-10,Instagram
+C008,Patrícia Ferreira,patricia.ferreira@gmail.com,(41) 92109-8765,Curitiba,PR,2024-03-20,Feira Local
+C009,Vanessa Oliveira,vanessa.oliveira@gmail.com,(51) 91098-7654,Porto Alegre,RS,2024-04-01,Indicação
+C010,Gabriela Santos,gabriela.santos@outlook.com,(71) 90987-6543,Salvador,BA,2024-04-08,Instagram
+C011,Rafaela Mendes,rafaela.mendes@gmail.com,(98) 99876-5432,São Luís,MA,2024-04-15,Facebook
+C012,Isabela Castro,isabela.castro@gmail.com,(92) 98765-4321,Manaus,AM,2024-04-22,WhatsApp
+C013,Daniela Ribeiro,daniela.ribeiro@gmail.com,(61) 97654-3210,Brasília,DF,2024-05-01,Instagram
+C014,Luciana Teixeira,luciana.teixeira@hotmail.com,(27) 96543-2109,Vitória,ES,2024-05-10,Indicação
+C015,Priscila Gomes,priscila.gomes@gmail.com,(83) 95432-1098,João Pessoa,PB,2024-05-18,Instagram
+C016,Simone Barros,simone.barros@gmail.com,(82) 94321-0987,Maceió,AL,2024-05-25,Feira Local
+C017,Tatiana Cardoso,tatiana.cardoso@gmail.com,(79) 93210-9876,Aracaju,SE,2024-06-01,WhatsApp
+C018,Cristina Vieira,cristina.vieira@gmail.com,(86) 92109-8765,Teresina,PI,2024-06-10,Instagram
+C019,Amanda Pinto,amanda.pinto@gmail.com,(91) 91098-7654,Belém,PA,2024-06-20,Facebook
+C020,Renata Freitas,renata.freitas@,,,-,,2024-07-01,
+C021,Érica Monteiro,erica.monteiro@gmail.com,(34) 99111-2233,Uberlândia,MG,2024-07-05,Instagram
+C022,Flávia Azevedo,flavia.azevedo@gmail.com,(34) 99222-3344,Uberlândia,MG,2024-07-12,Indicação
+C023,Larissa Nascimento,larissa.nascimento@gmail.com,(34) 99333-4455,Uberlândia,MG,2024-07-20,Instagram
+C024,Mônica Araújo,monica.araujo@gmail.com,(34) 99444-5566,Uberlândia,MG,2024-08-01,WhatsApp
+C025,Sabrina Lopes,sabrina.lopes@gmail.com,(34) 99555-6677,Uberlândia,MG,2024-08-10,Instagram

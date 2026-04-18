@@ -1,0 +1,51 @@
+venda_id,cliente_id,produto_id,quantidade,preco_unitario,desconto_percent,forma_pagamento,data_venda,status_entrega,despesa_id,tipo_despesa,valor_despesa,data_despesa
+V001,C001,P001,2,55.00,0,Pix,2024-01-25,Entregue,,,,
+V002,C002,P013,1,110.00,5,Cartão de Crédito,2024-02-01,Entregue,D001,Compra de Fios,80.00,2024-02-01
+V003,C003,P007,1,75.00,0,Pix,2024-02-10,Entregue,,,,
+V004,C004,P003,3,45.00,10,Pix,2024-02-14,Entregue,D002,Agulhas de Crochê,35.00,2024-02-14
+V005,C005,P005,1,40.00,0,Dinheiro,2024-02-28,Entregue,,,,
+V006,C006,P014,1,120.00,0,Cartão de Crédito,2024-03-07,Entregue,D003,Enchimento de Fibra,60.00,2024-03-07
+V007,C007,P009,1,80.00,5,Pix,2024-03-12,Entregue,,,,
+V008,C008,P011,2,42.00,0,Pix,2024-03-22,Entregue,D004,Olhos de Segurança,25.00,2024-03-22
+V009,C009,P019,1,130.00,0,Transferência,2024-04-03,Entregue,,,,
+V010,C010,P002,1,65.00,0,Pix,2024-04-10,Entregue,D005,Compra de Fios,120.00,2024-04-10
+V011,C011,P006,1,60.00,0,Dinheiro,2024-04-18,Entregue,,,,
+V012,C012,P013,2,110.00,10,Cartão de Crédito,2024-04-25,Entregue,D006,Embalagens Presentes,40.00,2024-04-25
+V013,C013,P024,1,90.00,0,Pix,2024-05-02,Entregue,,,,
+V014,C014,P015,2,68.00,0,Pix,2024-05-12,Entregue,D007,Frete Correios,28.00,2024-05-12
+V015,C015,P016,3,38.00,5,Pix,2024-05-20,Entregue,,,,
+V016,C016,P017,1,48.00,0,Dinheiro,2024-05-27,Entregue,D008,Compra de Fios,90.00,2024-05-27
+V017,C017,P004,1,95.00,0,Pix,2024-06-03,Entregue,,,,
+V018,C018,P014,1,120.00,0,Cartão de Crédito,2024-06-12,Entregue,D009,Agulhas de Crochê,30.00,2024-06-12
+V019,C019,P021,2,62.00,0,Pix,2024-06-22,Entregue,,,,
+V020,C020,P005,1,40.00,0,Pix,2024/07/03,Entregue,D010,Enchimento de Fibra,55.00,2024/07/03
+V021,C021,P025,1,98.00,0,Pix,2024-07-08,Entregue,,,,
+V022,C022,P013,1,110.00,15,Cartão de Crédito,2024-07-15,Entregue,D011,Frete Correios,22.00,2024-07-15
+V023,C023,P007,2,75.00,0,Pix,2024-07-22,Entregue,,,,
+V024,C001,P003,2,45.00,10,Pix,2024-08-05,Entregue,D012,Embalagens Presentes,50.00,2024-08-05
+V025,C024,P019,1,130.00,0,Transferência,2024-08-12,Entregue,,,,
+V026,C025,P009,1,80.00,0,Pix,2024-08-20,Entregue,D013,Compra de Fios,100.00,2024-08-20
+V027,C002,P011,3,42.00,5,Pix,2024-09-02,Entregue,,,,
+V028,C003,P006,1,60.00,0,Dinheiro,2024-09-10,Entregue,D014,Olhos de Segurança,20.00,2024-09-10
+V029,C004,P024,1,90.00,0,Pix,2024-09-18,Entregue,,,,
+V030,C005,P015,2,68.00,0,Pix,2024-09-25,Entregue,D015,Agulhas de Crochê,35.00,2024-09-25
+V031,C006,P022,2,52.00,0,Pix,2024-10-03,Entregue,,,,
+V032,C007,P023,1,58.00,0,Pix,2024-10-10,Entregue,D016,Compra de Fios,110.00,2024-10-10
+V033,C008,P001,3,55.00,0,Dinheiro,2024-10-18,Entregue,,,,
+V034,C009,P013,1,110.00,0,Cartão de Crédito,2024-10-25,Entregue,D017,Frete Correios,33.00,2024-10-25
+V035,C010,P002,2,65.00,10,Pix,10/11/2024,Entregue,,,,
+V036,C011,P004,1,95.00,0,Pix,12/11/2024,Entregue,D018,Enchimento de Fibra,70.00,12/11/2024
+V037,C012,P021,3,62.00,0,Pix,20/11/2024,Entregue,,,,
+V038,C013,P025,1,98.00,5,Cartão de Crédito,2024-11-28,Entregue,D019,Embalagens Presentes,45.00,2024-11-28
+V039,C014,P017,2,48.00,0,Pix,2024-12-05,Entregue,,,,
+V040,C015,P019,1,130.00,0,Transferência,2024-12-10,Entregue,D020,Compra de Fios,95.00,2024-12-10
+V041,C016,P016,4,38.00,5,Pix,2024-12-15,Entregue,,,,
+V042,C017,P013,2,110.00,0,Cartão de Crédito,2024-12-20,Entregue,D021,Agulhas de Crochê,28.00,2024-12-20
+V043,C018,P009,1,80.00,0,Pix,2024-12-23,Entregue,,,,
+V044,C019,P007,2,75.00,0,Pix,2024-12-27,Entregue,D022,Olhos de Segurança,22.00,2024-12-27
+V045,C020,P001,1,,-1,Dinheiro,2024-13-01,Entregue,,,,
+V046,C021,P024,1,90.00,0,Pix,2025-01-03,Em trânsito,,,,
+V047,C022,P015,3,68.00,10,Pix,2025-01-10,Em trânsito,D023,Frete Correios,30.00,2025-01-10
+V048,C023,P022,2,52.00,0,Pix,2025-01-18,Entregue,,,,
+V049,C024,P013,1,110.00,0,Cartão de Crédito,2025-01-25,Entregue,D024,Compra de Fios,85.00,2025-01-25
+V050,C025,P025,1,98.00,0,Pix,2025-01-30,Entregue,,,,
