@@ -189,6 +189,16 @@ Os arquivos de entrada foram propositalmente construídos com problemas reais pa
 
 ---
 
+## 📊 Dashboard — Visão Geral
+
+Dashboard interativo construído no Databricks com as tabelas da camada Gold,
+apresentando KPIs gerais, faturamento mensal, rankings de clientes e produtos,
+distribuição geográfica e análise por canal de aquisição.
+
+![Dashboard Loja Amigurumi](assets/dashboard.png)
+
+---
+
 ## 👤 Autor
 
 **Paulo Victor Matias**
